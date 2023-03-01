@@ -1,4 +1,4 @@
-# Windpws-PowerShell-Get-all-workstation-names-inside-domain-and-current-logged-in-user-of-each
+# Windows-PowerShell-Get-all-workstation-names-inside-domain-and-current-logged-in-user-of-each
 
 ```
 # Fix array output formatting
